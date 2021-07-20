@@ -1,0 +1,27 @@
+{
+  "name": "codemod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "5to6-codemod": "^1.8.0",
+    "jscodeshift": "^0.13.0",
+    "vconsole-webpack-plugin": "^1.7.1",
+    "vue-codemod": "0.0.5",
+    "vue-jscodeshift-adapter": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firetheworld/codemod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/firetheworld/codemod/issues"
+  },
+  "homepage": "https://github.com/firetheworld/codemod#readme"
+}
